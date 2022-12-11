@@ -17,7 +17,7 @@ function App() {
 	return (
 		<ThemeProvider theme={theme}>
 			<Router>
-				<Box padding="24px" paddingX="8px">
+				<Box paddingY="24px" paddingX="8px">
 					<Routes>
 						<Route
 							path="/"
