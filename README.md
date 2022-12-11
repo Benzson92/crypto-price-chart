@@ -12,6 +12,10 @@ cd crypto-price-chart
 
 ## Running the project without Dockerfile:
 
+See Dockerfile for env information.
+
+<br />
+
 Install dependencies before running the project:
 
 ```sh
